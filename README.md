@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Soniya Shaikh  
+# 👋 Hi, I'm Soniya Shaik  
 
 🎓 **B.Tech 3rd Year Student** at *Sri Venkateswara College of Engineering*  
 💻 Passionate about **Web Development, AI, and MachineLearning**  
@@ -10,8 +10,8 @@
 
 **Frontend:** HTML, CSS, JavaScript 
 **Backend:** Python, Java 
-**Databases:** MySQL  
-**Other Tools:** Git, GitHub, VS Code, Streamlit  
+**Databases:** MySQL, MongoDB Atlas
+**Other Tools:** Git, GitHub, VS Code, Streamlit ,Jupyter Notebook  
 
 ---
 
@@ -19,7 +19,10 @@
 
 - 🔹 [AI Resume Analyzer](#) → NLP-based app to match resumes with job descriptions.  
 - 🔹 [Task Manager App](#) → Full-stack app with task creation, tracking, and user authentication.
-- 🔹 [Smart AgriTech](#) → Innovative agriculture technology project for monitoring crops and optimizing yield.  
+- 🔹 [Smart AgriTech](#) → Innovative agriculture technology project for monitoring crops and optimizing yield.
+- 🔹 .[Haritech](#) -> Innovative agriculture technology for optimixing crop yield
+- 🔹[Feedback-Form](#)-> This feedback form helps us understand your experience, improve our services, and address your concerns. Your honest responses are valuable and will be used only to enhance quality and user satisfaction. Thank you for taking the time to share your feedback.
+- 🔹[DSA-Notebook]-> A well-structured collection of Data Structures and Algorithms notes, covering core concepts, explanations, and examples to support learning, interview preparation, and problem-solving practice.
 
 ---
 
