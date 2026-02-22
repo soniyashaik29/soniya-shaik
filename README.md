@@ -71,13 +71,14 @@ To become a skilled AI Engineer and build intelligent systems that solve real-wo
 ---
 
 ## 📫 Contact Me
+---
 
 📧 Email: [soniyashaik78609@gmail.com](mailto:soniyashaik78609@gmail.com)
----
+
 📱 Contact Number: +91-9391568163
----
+
 🔗 LinkedIn: https://www.linkedin.com/in/soniya-shaik-8191b9329 
----
+
 🐙 GitHub: [https://github.com/soniyashaik29](https://github.com/soniyashaik29)
 
 ---
