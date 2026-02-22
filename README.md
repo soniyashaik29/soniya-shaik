@@ -1,85 +1,74 @@
-# 👋 Hi, I'm Soniya Shaik
 
-🎓 B.Tech 3rd Year Student
-💻 Computer Science & Engineering (AI & ML)
-🚀 Aspiring AI & Full Stack Developer
+# Soniya Shaik
 
----
-
-## 🌟 About Me
-
-I am a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy building real-world applications that combine intelligent systems with clean user interfaces.
-
-I am continuously learning, experimenting, and improving my skills in software development and AI technologies.
-
-I believe in writing clean, structured, and scalable code.
+AI Engineer in Progress | B.Tech CSE (AI & ML)
 
 ---
 
-## 💡 Interests
+## About Me
 
-* Artificial Intelligence
+I am a Computer Science student specializing in Artificial Intelligence and Machine Learning, focused on building intelligent, scalable, and data-driven systems.
+
+My interests lie in developing AI-powered applications, automation systems, and end-to-end machine learning pipelines that solve real-world problems.
+
+I am continuously working on strengthening my foundation in algorithms, system design, and applied machine learning.
+
+---
+
+## Core Areas of Interest
+
 * Machine Learning
-* Full Stack Development
-* DevOps & CI/CD
-* Problem Solving
-* Data Structures & Algorithms
+* Deep Learning
+* Natural Language Processing
+* AI-driven Web Applications
+* Data Analysis & Visualization
+* CI/CD for AI Systems
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming
 
-* Python
-* JavaScript
-* C
+Python | JavaScript | C
 
-### 🌐 Web Development
+### Machine Learning & AI
 
-* HTML
-* CSS
-* React (Learning)
+NumPy | Pandas | Scikit-learn | TensorFlow (Learning)
 
-### ⚙️ Tools & Technologies
+### Web Development
 
-* Git & GitHub
-* GitHub Actions (CI/CD)
-* Docker (Basics)
-* VS Code
+HTML | CSS | React
 
-### 🗄️ Databases
+### Tools & DevOps
 
-* MySQL
-* MongoDB
+Git | GitHub | GitHub Actions | Docker
+
+### Databases
+
+MySQL | MongoDB
 
 ---
 
-## 📚 Currently Learning
+## Current Focus
 
-* Advanced Machine Learning
-* Full Stack Development
-* Cloud & Deployment
-* Data Analytics
-
----
-
-## 🚀 Career Goal
-
-To become a skilled AI Engineer and build intelligent systems that solve real-world problems.
+* Building AI-integrated full-stack applications
+* Automating workflows using CI/CD
+* Improving problem-solving and DSA
+* Exploring advanced ML architectures
 
 ---
 
-## 📫 Contact Me
----
+## Long-Term Vision
 
-📧 Email: [soniyashaik78609@gmail.com](mailto:soniyashaik78609@gmail.com)
-
-📱 Contact Number: +91-9391568163
-
-🔗 LinkedIn: https://www.linkedin.com/in/soniya-shaik-8191b9329 
-
-🐙 GitHub: [https://github.com/soniyashaik29](https://github.com/soniyashaik29)
+To become a highly skilled AI Engineer capable of designing intelligent systems that operate at scale and create measurable impact.
 
 ---
 
+## Contact
+
+Email: [soniyashaik78609@gmail.com](mailto:soniyashaik78609@gmail.com)
+LinkedIn: https://www.linkedin.com/in/soniya-shaik-8191b9329 
+GitHub: github.com/soniyashaik29
+
+---
