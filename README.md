@@ -68,7 +68,9 @@ To become a highly skilled AI Engineer capable of designing intelligent systems 
 ## Contact
 
 Email: [soniyashaik78609@gmail.com](mailto:soniyashaik78609@gmail.com)
+
 LinkedIn: https://www.linkedin.com/in/soniya-shaik-8191b9329 
+
 GitHub: github.com/soniyashaik29
 
 ---
