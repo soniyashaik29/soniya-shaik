@@ -71,6 +71,6 @@ Email: [soniyashaik78609@gmail.com](mailto:soniyashaik78609@gmail.com)
 
 LinkedIn: https://www.linkedin.com/in/soniya-shaik-8191b9329 
 
-GitHub: github.com/soniyashaik29
+GitHub: https://github.com/soniyashaik29
 
 ---
